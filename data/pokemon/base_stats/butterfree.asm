@@ -1,6 +1,6 @@
 	db DEX_BUTTERFREE ; pokedex id
 
-	db  60,  45,  50,  70,  80
+	db  63,  48,  53,  73,  83
 	;   hp  atk  def  spd  spc
 
 	db BUG, FLYING ; type
