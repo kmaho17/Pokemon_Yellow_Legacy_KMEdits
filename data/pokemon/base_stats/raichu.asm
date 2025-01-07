@@ -1,6 +1,6 @@
 	db DEX_RAICHU ; pokedex id
 
-	db  60,  90,  55, 100,  90
+	db  60,  90,  55, 105,  100
 	;   hp  atk  def  spd  spc
 
 	db ELECTRIC, ELECTRIC ; type
